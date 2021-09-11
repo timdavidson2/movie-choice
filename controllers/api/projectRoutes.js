@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const { Project } = require('../../models');
 const withAuth = require('../../utils/auth');
-
+const apiurl = 'https://developer.nps.gov/api/v1/parks?parkCode=acad&api_key=Zspd4UDESTDcvhmmO3bUNljh3NXsNuP4gTc63oXO';
 router.post('/', withAuth, async (req, res) => {
   try {
     const newProject = await Project.create({
