@@ -1,4 +1,11 @@
-header, .project:not(:last-child) {
+html {
+  background: url(../img/martins-cardoso-NsxzcbdF8fU-unsplash.jpg) no-repeat
+    center center fixed;
+  background-size: cover;
+}
+
+header,
+.project:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
