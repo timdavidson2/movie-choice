@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const { Project } = require('../../models');
 const withAuth = require('../../utils/auth');
+const APIKEY = 'Zspd4UDESTDcvhmmO3bUNljh3NXsNuP4gTc63oXO';
 
 router.post('/', withAuth, async (req, res) => {
   try {
