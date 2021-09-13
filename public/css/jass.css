@@ -342,6 +342,8 @@ template {
 END NORMALIZE CSS
 =================
 */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 *,
 *::before,
 *::after {
@@ -420,6 +422,8 @@ button {
 }
 
 a {
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
   color: #1b89bc;
   text-decoration: none;
 }
