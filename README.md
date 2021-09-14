@@ -1,2 +1,1 @@
-
-# Museum Parking App
+# Park Finder App
