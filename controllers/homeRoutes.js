@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const { Project, User } = require('../models');
 const withAuth = require('../utils/auth');
+const APISEARCHPARKS = `https://developer.nps.gov/api/v1/parks?&${process.env.API_NPS}`;
 
 router.get('/', async (req, res) => {
   try {
