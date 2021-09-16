@@ -1,17 +1,61 @@
 [
   {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-    "needed_funding": 5000
+      "name": "Amelia County, Virginia",
+      "picture": "https://www.readkong.com/static/8d/ef/8def261250731143bac27320c3d22242/amelia-county-board-of-supervisors-1779145-1.jpg"
+
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "needed_funding": 10000
+      "name": "Caroline County, Virginia",
+      "picture": "https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Caroline_County_u_2C_Virginia__d804e4/Caroline_Seal.jpg__66197.jpeg"
+
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
+      "name": "Charles City County, Virginia",
+      "picture": "https://n4m66b0vr7-flywheel.netdna-ssl.com/wp-content/uploads/2019/02/Charles-City-County-Seal.gif"
+  },
+  {
+      "name": "Chesterfield County, Virginia",
+      "picture": "https://www.chesterfield.gov/ImageRepository/Document?documentID=2611"
+  },
+  {
+      "name": "Dinwiddie County, Virginia",
+      "picture": "https://vignette.wikia.nocookie.net/genealogy/images/a/a6/Dinwiddie_Seal.jpg/revision/latest?cb=20071112195520"
+  },
+  {
+      "name": "Goochland County, Virginia",
+      "picture": "https://planrva.org/wp-content/uploads/2019/03/goochland-seal-1200-px_7549721764_o.gif"
+  },
+  {
+      "name": "Hanover County, Virginia",
+      "picture": "https://planrva.org/wp-content/uploads/2019/02/Hanover-County-Seal.gif"
+  },
+  {
+      "name": "Henrico County, Virginia",
+      "picture": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/44/04491073-a9e7-50b9-b97c-d1fef72bf65e/581ba683ad107.image.jpg"
+  },
+  {
+      "name": "King William County, Virginia",
+      "picture": "https://www.mascotdb.com/sites/default/files/images/logos/kwcavaliers.jpg"
+  },
+  {
+      "name": "New Kent County, Virginia",
+      "picture": "http://www.co.new-kent.va.us/ImageRepository/Document?documentID=4870"
+  },
+  {
+      "name": "Powhatan County, Virginia",
+      "picture": "https://i.pinimg.com/originals/8f/d0/54/8fd0544d31925c07b4f8b0e9082118fa.jpg"
+  },
+  {
+      "name": "Prince George County, Virginia",
+      "picture": "https://keepvirginiabeautiful.org/wp-content/uploads/2018/06/CountyPrinceGeorge-logo.gif"
+  },
+  {
+      "name": "Sussex County, Virginia",
+      "picture": "https://www.gannett-cdn.com/-mm-/7e47370877b354b5fb83086acfb1d60a36b24af8/c=0-50-400-351&r=x404&c=534x401/local/-/media/2016/06/21/Salisbury/Salisbury/636021241613198502-sussex-county-logo2.jpg"
+  },
+  {
+      "name": "City of Richmond, Virginia",
+      "picture": "https://www.richmondparade.org/images/City-of-Richmond-Redesign-Logo-01.png"
   }
+
 ]
